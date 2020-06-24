@@ -1,0 +1,2 @@
+# django-shuup-
+django-shuup 
